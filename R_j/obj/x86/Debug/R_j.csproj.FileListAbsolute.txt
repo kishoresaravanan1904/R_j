@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\R_j\R_j\bin\Debug\R_j.rxtmg
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\R_j\R_j\bin\Debug\R_j.rxtst
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\R_j\R_j\bin\Debug\R_j.exe.config
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\R_j\R_j\bin\Debug\R_j.xml
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\R_j\R_j\bin\Debug\R_j.exe
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\R_j\R_j\bin\Debug\R_j.pdb
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\R_j\R_j\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\R_j\R_j\obj\x86\Debug\R_j.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\R_j\R_j\obj\x86\Debug\R_j.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\R_j\R_j\obj\x86\Debug\R_j.csproj.CopyComplete
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\R_j\R_j\obj\x86\Debug\R_j.exe
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\R_j\R_j\obj\x86\Debug\R_j.pdb
